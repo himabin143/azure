@@ -1,2 +1,4 @@
 # azure
-state file
+#Hello Linux
+cd
+
